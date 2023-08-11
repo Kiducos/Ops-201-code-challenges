@@ -1,0 +1,23 @@
+[33mcommit d333667d5354a94f29d5362076e123361889497e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kiducos <kiducos@yahoo.com>
+Date:   Fri Aug 11 00:31:45 2023 +0000
+
+    hello world
+
+[33mcommit 190791c48a01e30915f7775bbfa4978ce4c7a831[m
+Author: Kiducos <kiducos@yahoo.com>
+Date:   Fri Aug 11 00:09:56 2023 +0000
+
+    Commit file helloworld.sh
+
+[33mcommit 48f8c56278fbbac042139a864b4e2b6a3f4eb18a[m
+Author: Kiducos <kiducos@yahoo.com>
+Date:   Wed Aug 9 01:25:28 2023 +0000
+
+    This is my first commit
+
+[33mcommit 8560d159f40c8a825bf00f65fd25f1a7d0245dd5[m
+Author: Kevin Ducos <132249595+Kiducos@users.noreply.github.com>
+Date:   Tue Aug 8 18:31:42 2023 -0400
+
+    Initial commit
